@@ -3,9 +3,10 @@
 </p>
 
 # Homoglyph Detector
-<a href="https://github.com/LaxmanSinghTomar/homoglyph-detector/commits/master" target="_blank">
-  <img src="https://img.shields.io/github/last-commit/LaxmanSinghTomar/homoglyph-detector?style=flat-square" alt="GitHub last commit">
-</a>
+<p align = "center">
+  <a href="https://github.com/LaxmanSinghTomar/homoglyph-detector/commits/master" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/LaxmanSinghTomar/homoglyph-detector?style=flat-square" alt="GitHub last commit">
+  </a>
 
 <a href="https://github.com/LaxmanSinghTomar/homoglyph-detector/issues" target="_blank">
   <img src="https://img.shields.io/github/issues/LaxmanSinghTomar/homoglyph-detector?style=flat-square&color=red" alt="GitHub issues">
@@ -33,10 +34,11 @@
   <img alt="ESLint" src="https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square">
 </a>
 
-<a href="https://github.com/LaxmanSinghTomar/homoglyph-detector/blob/d6424bee18d688e532db7e836fcd6bc0ee47071b/LICENSE" target="_blank">
-  <img alt="LICENSE" src="https://img.shields.io/github/license/LaxmanSinghTomar/homoglyph-detector?style=flat-square&color=yellow">
+<a href="https://github.com/LaxmanSinghTomar/homoglyph-detector/blob/main/LICENSE" target="_blank">
+  <img alt="LICENSE" src="https://img.shields.io/github/license/LaxmanSinghTomar/homoglyph-detector">
 <a/>
-    
+
+
 <a href="https://ctt.ac/V44e7" target="_blank">
   <img src="https://img.shields.io/twitter/url?style=flat-square&logo=twitter&url=https://ctt.ac/V44e7" alt="GitHub tweet">
 </a>
