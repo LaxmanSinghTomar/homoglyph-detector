@@ -2,7 +2,6 @@
   <img alt="GitHub release" src="https://github.com/LaxmanSinghTomar/homoglyph-detector/blob/a5f1eb5d74bd95942028a7d86dd1c4290b51d92f/Homoglyph%20Detector.png">
 </p>
 
-# Homoglyph Detector
 <p align = "center">
   <a href="https://github.com/LaxmanSinghTomar/homoglyph-detector/commits/master" target="_blank">
     <img src="https://img.shields.io/github/last-commit/LaxmanSinghTomar/homoglyph-detector?style=flat-square" alt="GitHub last commit">
